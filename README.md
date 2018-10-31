@@ -38,7 +38,7 @@ Ultima actualizacion: `30/10/2018`
 - Angular (v2-6)
 - React.js
 - ASP .NET
-- Node/Express.js
+- Node.js/Express.js
 
 ### Conocimientos para el manejo de bases de datos (Back-End)
 
@@ -51,30 +51,38 @@ Ultima actualizacion: `30/10/2018`
 
 ###### NoSQL
 
-- Node.js
 - MongoDB
 - Firebase
 
-### Lenguajes de Programacion
+###### Desarrollo server-side
+
+- Node.js
+- Go/Golang
+- PHP basico
+
+### Lenguajes de Programacion Generales
 
 - Java
 - Visual Basic
 - Visual C# .Net
 - Lenguaje C
 - Lenguaje C++
-- PHP Basico
+- Python
 
 ### Desarrollo de aplicaciones moviles
 
-- Android
+- Android con Android Studio
 
 #### Ademas, conocimientos en:
 
 - Git y modelos de control de versiones.
 - Metodologias Agiles: SCRUM, XP y conecptos de Kanban.
 - Responsive web/mobile design.
+- Manejo de RESTful Services y APIs.
+- Diagramas UML, diagramas de flujo de datos, modelos entidad-relacion y casos de uso.
 - Virtualizacion en VMware/Virtualbox.
 - Manejo de compiladores: Jison/Node.js, Irony, Flex/Bison, Jflex/CUP, JavaCC y GoldParser.
+- Diseño de sitios web con Wordpress.
 - Sistemas operativos Windows: 98/ Me/ XP/ 7/ 8/ 8.1/ 10.
 - Sistemas operativos Linux: Ubuntu/Open Suse/Linux Mint/otros - UNITY/GNOME/KDE/MATE Desktops.
 - Software: Microsoft Office (avanzado).
