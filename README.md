@@ -2,7 +2,7 @@
 
 Estudiante de ultimo año de Ingenieria en Ciencias y Sistemas.
 
-Para mayor informacion revise el archivo [[CV]Rolando_Minera.pdf](https://gitlab.com/Agentundfire/curriculum/blob/master/%5BCV%5DRolando_Minera.pdf)
+Para mayor informacion revise el archivo [[CV]Rolando_Minera.pdf](https://gitlab.com/RJ_Minera/curriculum/blob/master/%5BCV%5DRolando_Minera.pdf)
 
 Ultima actualizacion: `30/10/2018`
 
